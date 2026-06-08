@@ -11,11 +11,9 @@
 
 ## 💫 About Me
 
-I am a final-year **BSc. (Hons) Data Science** undergraduate at the **University of Colombo, Faculty of Science**. I specialize in Python, SQL, machine learning, and statistical modeling. I combine a strong theoretical background with practical, hands-on experience building end-to-end data analytics pipelines, interactive dashboards, and predictive web applications.
+I am a final-year **BSc. (Hons) Data Science** undergraduate at the **University of Colombo, Faculty of Science** with a current **First Class Level GPA** (Honours: Dean's List 2022/23, 2023/24, 2024/25).. I specialize in Python, SQL, machine learning, and statistical modeling. I combine a strong theoretical background with practical, hands-on experience building end-to-end data analytics pipelines, interactive dashboards, and predictive web applications.
 
 Beyond data science, I am a passionate musician and have served in leadership roles, including **President** of the **Stat Circle** at the University of Colombo.
-
-- 🎓 **Education:** Final year of BSc (Hons) Data Science with a current **First Class Level GPA** (Honours: Dean's List 2022/23, 2023/24, 2024/25).
 
 ---
 
