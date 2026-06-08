@@ -30,7 +30,7 @@ Beyond data science, I am a passionate musician and have served in leadership ro
 - Developed an educational full-stack visualizer and simulator designed to help students, researchers, and machine learning practitioners intuitively understand class imbalance.
 - Implemented visual and geometric interactive simulations of popular oversampling and cleaning algorithms to demonstrate the mathematical mechanics of data balancing.
 
-### 🏢 [Remote Worker Productivity Prediction] 
+### 🏢 [Remote Worker Productivity Prediction](https://github.com/tharindperera/remote-worker-productivity-prediction) 
 > **Stack:** Python, CatBoost, FAMD, K-Means | *Group Project*
 - Addressed the challenge of objectively measuring remote employee efficiency by developing a predictive modeling modeling framework.
 - Applied **Factor Analysis of Mixed Data (FAMD)** alongside **K-Means clustering** to handle mixed-type datasets and high multicollinearity.
